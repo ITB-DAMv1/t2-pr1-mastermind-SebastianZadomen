@@ -1,0 +1,14 @@
+C:\Users\isard\Desktop\Programacion\Mastermind\Mastermind\obj\Debug\net8.0\PR1ZadomenLlancariSebastian..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\Desktop\Programacion\Mastermind\Mastermind\obj\Debug\net8.0\PR1ZadomenLlancariSebastian..AssemblyInfoInputs.cache
+C:\Users\isard\Desktop\Programacion\Mastermind\Mastermind\obj\Debug\net8.0\PR1ZadomenLlancariSebastian..AssemblyInfo.cs
+C:\Users\isard\Desktop\Programacion\Mastermind\Mastermind\obj\Debug\net8.0\PR1ZadomenLlancariSebastian..csproj.CoreCompileInputs.cache
+C:\Users\isard\Desktop\Programacion\Mastermind\Mastermind\bin\Debug\net8.0\PR1ZadomenLlancariSebastian..exe
+C:\Users\isard\Desktop\Programacion\Mastermind\Mastermind\bin\Debug\net8.0\PR1ZadomenLlancariSebastian..deps.json
+C:\Users\isard\Desktop\Programacion\Mastermind\Mastermind\bin\Debug\net8.0\PR1ZadomenLlancariSebastian..runtimeconfig.json
+C:\Users\isard\Desktop\Programacion\Mastermind\Mastermind\bin\Debug\net8.0\PR1ZadomenLlancariSebastian..dll
+C:\Users\isard\Desktop\Programacion\Mastermind\Mastermind\bin\Debug\net8.0\PR1ZadomenLlancariSebastian..pdb
+C:\Users\isard\Desktop\Programacion\Mastermind\Mastermind\obj\Debug\net8.0\PR1ZadomenLlancariSebastian..dll
+C:\Users\isard\Desktop\Programacion\Mastermind\Mastermind\obj\Debug\net8.0\refint\PR1ZadomenLlancariSebastian..dll
+C:\Users\isard\Desktop\Programacion\Mastermind\Mastermind\obj\Debug\net8.0\PR1ZadomenLlancariSebastian..pdb
+C:\Users\isard\Desktop\Programacion\Mastermind\Mastermind\obj\Debug\net8.0\PR1ZadomenLlancariSebastian..genruntimeconfig.cache
+C:\Users\isard\Desktop\Programacion\Mastermind\Mastermind\obj\Debug\net8.0\ref\PR1ZadomenLlancariSebastian..dll
